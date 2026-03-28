@@ -75,7 +75,19 @@ plt.show()
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+
+![WhatsApp Image 2026-03-28 at 4 07 38 PM](https://github.com/user-attachments/assets/d2f48a56-251e-4450-a7b3-4fb80b8d9c19)
+
+
+![WhatsApp Image 2026-03-28 at 4 07 58 PM](https://github.com/user-attachments/assets/4fee2253-3521-4aa0-9b7e-79cf5218c09a)
+
+![WhatsApp Image 2026-03-28 at 4 08 19 PM](https://github.com/user-attachments/assets/15ad7eed-eae5-4b79-be78-3776a19f289d)
+
+
+![WhatsApp Image 2026-03-28 at 4 08 40 PM](https://github.com/user-attachments/assets/77b25ce0-28c9-42ce-b34e-c8c6403791e5)
+
+
+![WhatsApp Image 2026-03-28 at 4 09 13 PM](https://github.com/user-attachments/assets/993443a8-5ce2-45a1-872e-753fb0950f15)
 
 
 ## Result:
